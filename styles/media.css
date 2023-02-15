@@ -1,0 +1,64 @@
+@media (max-width: 700px){
+    .work-experience-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .skills-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .education-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .side-bar-content{
+        width: 90px;
+        margin: 0 0 0 50px;
+    }
+}
+
+
+
+@media (max-width: 550px){
+    .section-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .side-bar-content-media{
+        display: none;
+    }
+
+    .content-container{
+        overflow-x: visible;
+        overflow-y: visible;
+        margin-top: -300px;
+        width: 500px;
+    }
+
+    .header{
+        height: 120px;
+        padding: 20px;
+    }
+
+    .profile-container{
+        margin-top: 100px;
+    }
+
+    .header-nav{
+        
+        margin-bottom: 15px;
+    }
+
+}

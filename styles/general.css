@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    scroll-behavior: smooth;
+    /* border: 1px dotted rgb(241, 119, 119); */
+}
+
+body{
+    font-family: "Roboto", "Arial";
+    color: rgb(59, 59, 59);
+    font-size: 14px;
+}
